@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App table {
+  margin: 0 auto
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar-main {
+  display: flex;
+  justify-content: flex-start;
+  padding: 10px;
+  background-color: #404040;
+}
+
+.navbar-main a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.new-grades__controls {
+  width: 100px;
+}
+

@@ -1,0 +1,18 @@
+.newStudent {
+    display: flex;
+    justify-content: space-evenly;
+}
+.item {
+    width: 20%;
+    margin: 2rem;
+}
+
+.newStudent table {
+    border: 1px solid #bfbfbf;
+    margin-bottom: 1rem;
+}
+
+.newStudent th,td {
+    border: 1px solid #bfbfbf
+} 
+
