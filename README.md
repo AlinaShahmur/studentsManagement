@@ -1,5 +1,5 @@
 # studentsManagement
-## System management of student data base
+## System management for students' data in university
 The tools that were used:
 1. HTML, CSS, JS
 2. React
